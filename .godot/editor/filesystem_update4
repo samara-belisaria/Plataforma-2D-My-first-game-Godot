@@ -1,2 +1,4 @@
-res://scene/game.tscn
-res://entities/player.tscn
+res://scene/tropic.tscn
+res://tiles/terrain.tres
+res://tiles/decoration.tres
+res://scene/forest.tscn

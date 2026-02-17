@@ -1,6 +1,11 @@
+Node
 TileMapLayer
 Camera2D
 AnimatedSprite2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+Node2D
 CollisionShape2D
 CharacterBody2D
 StaticBody2D

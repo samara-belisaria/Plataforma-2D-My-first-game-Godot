@@ -1,11 +1,15 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1771268167
+::res://::1771288079
 icon.svg::CompressedTexture2D::4377181716717368305::1771263930::1771263938::1::::<><><>0<>0<>6979d247977e5f19c614dd8ace17886d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://entities/::1771266979
-player.tscn::PackedScene::4289369354623840207::1771266979::0::1::::<><><>0<>0<><>::uid://bhqlgaeisqull::::res://scripts/player.gd<>uid://ctmwp0mo4wy1u::::res://sprites/1 - Penguin/Idle (16 x 16).png<>uid://bie60i2huyvv5::::res://sprites/1 - Penguin/Waddling (16 x 16).png<>uid://hxe2hbmj2ygv::::res://sprites/1 - Penguin/Jump (16 x 16).png
-::res://scene/::1771268139
-game.tscn::PackedScene::1517444639666470451::1771268139::0::1::::<><><>0<>0<><>::uid://b2d2j0j8edsnv::::res://entities/player.tscn<>uid://cwo6drptg5igy::::res://sprites/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png
-::res://scripts/::1771267114
+::res://entities/::1771286572
+camera.tscn::PackedScene::8878358716030596394::1771286572::0::1::::<><><>0<>0<><>::uid://bhe8f4las551h::::res://scripts/camera.gd
+player.tscn::PackedScene::4289369354623840207::1771286135::0::1::::<><><>0<>0<><>::uid://bhqlgaeisqull::::res://scripts/player.gd<>uid://ctmwp0mo4wy1u::::res://sprites/1 - Penguin/Idle (16 x 16).png<>uid://bie60i2huyvv5::::res://sprites/1 - Penguin/Waddling (16 x 16).png<>uid://hxe2hbmj2ygv::::res://sprites/1 - Penguin/Jump (16 x 16).png
+::res://scene/::1771288030
+forest.tscn::PackedScene::4613440963731275177::1771287736::0::1::::<><><>0<>0<><>::uid://b2d2j0j8edsnv::::res://entities/player.tscn<>uid://br71wms17rdgf::::res://tiles/terrain.tres<>uid://c2v1j04kkolm0::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/6 - Distant_trees.png<>uid://cv3p0e2myoplq::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Terrain (16 x 16).png<>uid://c60f0lkmgut84::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/5 - Tree_row_BG_2.png<>uid://c3gc47rr7qphd::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/4 - Tree_row_BG_1.png<>uid://cfvikkw32d803::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/3 - Bottom_leaf_piles.png<>uid://lshhxk0cl4it::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/2 - Trees.png<>uid://dkfq2f50k0qk7::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Background parts/1 - Leaf_top.png<>uid://dyq0jhf15jn3w::::res://entities/camera.tscn
+game.tscn::PackedScene::1517444639666470451::1771274662::0::1::::<><><>0<>0<><>::uid://b2d2j0j8edsnv::::res://entities/player.tscn<>uid://br71wms17rdgf::::res://tiles/terrain.tres<>uid://ci7gluq6mu6g0::::res://tiles/decoration.tres
+tropic.tscn::PackedScene::5787844913954638142::1771288030::0::1::::<><><>0<>0<><>::uid://b2d2j0j8edsnv::::res://entities/player.tscn<>uid://br71wms17rdgf::::res://tiles/terrain.tres<>uid://ci7gluq6mu6g0::::res://tiles/decoration.tres<>uid://co1vuxhxnh4pe::::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/5 - Sky_color.png<>uid://8iompokxmro::::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/4 - Floating_clouds.png<>uid://bx4sad1qtg6mh::::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/3 - Background_clouds.png<>uid://cxgxpk31prgqo::::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/1 - Waters_version_1.png<>uid://cr36fo6wb8sk0::::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/2 - Waters_version_2.png<>uid://dyq0jhf15jn3w::::res://entities/camera.tscn
+::res://scripts/::1771286572
+camera.gd::GDScript::2888014230101656131::1771286572::0::1::::<>Camera2D<><>0<>0<><>::
 player.gd::GDScript::2911451241475552113::1771267114::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://sprites/::1771267298
 ::res://sprites/1 - Penguin/::1771265129
@@ -52,12 +56,12 @@ _Complete_static_BG_(288 x 208).png::CompressedTexture2D::7691326977086455674::1
 ::res://sprites/Seasonal Tilesets/3 - Tropics/::1771267299
 Terrain (16 x 16).png::CompressedTexture2D::3917411002197033191::1771267298::1771267299::1::::<><><>0<>0<>434dc7a6b125f8943ecd0f01b16ce2d1<>res://.godot/imported/Terrain (16 x 16).png-18f2273577426d762b4096dff81ecc8f.ctex::
 Tropics_entities (16 x 16).png::CompressedTexture2D::8372864464548768513::1771267298::1771267299::1::::<><><>0<>0<>74df98e6c3ee8a109209610fdb12d362<>res://.godot/imported/Tropics_entities (16 x 16).png-8c5c009e84162d8c90517b37d4d3aea1.ctex::
-::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/::1771267299
+::res://sprites/Seasonal Tilesets/3 - Tropics/Background parts/::1771280228
 _Complete_static_BG_(288 x 208).png::CompressedTexture2D::8883974359331329436::1771267298::1771267299::1::::<><><>0<>0<>8d905e6d2631602e4afd5039ce367867<>res://.godot/imported/_Complete_static_BG_(288 x 208).png-e14c3cb2509bc97035b0575a29e90d97.ctex::
 1 - Waters_version_1.png::CompressedTexture2D::6400994885017574526::1771267298::1771267299::1::::<><><>0<>0<>c54c57d4bd391fae7cdcf9ef73ac3479<>res://.godot/imported/1 - Waters_version_1.png-3c42a189bc18976319654bc3f9e689f7.ctex::
 2 - Waters_version_2.png::CompressedTexture2D::6025746226309784013::1771267298::1771267299::1::::<><><>0<>0<>f1ab5b38445e423770f6e875639ab9ac<>res://.godot/imported/2 - Waters_version_2.png-71390964e7403b726908217b97497c95.ctex::
-3 - Floating_clouds.png::CompressedTexture2D::68635857043418584::1771267298::1771267299::1::::<><><>0<>0<>e158de160b30d2dc3c2ee41102d93743<>res://.godot/imported/3 - Floating_clouds.png-9c0b5f94f9b7021339b9845cfa9a871d.ctex::
-4 - Background_clouds.png::CompressedTexture2D::4061724146592970235::1771267298::1771267299::1::::<><><>0<>0<>fac1fb430ea9634f5b56e3b5c9d7a91d<>res://.godot/imported/4 - Background_clouds.png-c943d900121f1cffa0b92cd45075c533.ctex::
+3 - Background_clouds.png::CompressedTexture2D::4061724146592970235::1771267298::1771280228::1::::<><><>0<>0<>19266bcb208a75b174dac2a2d60eb6ec<>res://.godot/imported/3 - Background_clouds.png-3bc60d4a7d761b1f2ad053158fdbc179.ctex::
+4 - Floating_clouds.png::CompressedTexture2D::68635857043418584::1771267298::1771280180::1::::<><><>0<>0<>44a478336d632972ac78ba0f9d3df5b3<>res://.godot/imported/4 - Floating_clouds.png-0329c033be6c294ea7a3ee6bb8cf380e.ctex::
 5 - Sky_color.png::CompressedTexture2D::5810470992563783838::1771267298::1771267299::1::::<><><>0<>0<>bf52f18bf2fd47c1b307d22fff011cce<>res://.godot/imported/5 - Sky_color.png-ca041872ddb215a4f7631709674eccda.ctex::
 ::res://sprites/Seasonal Tilesets/4 - Winter World/::1771267299
 Terrain (16 x 16).png::CompressedTexture2D::4255188148595925514::1771267298::1771267299::1::::<><><>0<>0<>7cb24dd95e8e1c12f185fb0d7b341b7f<>res://.godot/imported/Terrain (16 x 16).png-8b7ba34a28040b48489cce9bf4d94a30.ctex::
@@ -77,3 +81,6 @@ Metal_Wire_fence (16 x 16).png::CompressedTexture2D::30154612283771351::17712672
 Rock_shape (16 x 16).png::CompressedTexture2D::7065580502944952094::1771267298::1771267299::1::::<><><>0<>0<>30a78a8905ead63f6c29f44b8bb4c4eb<>res://.godot/imported/Rock_shape (16 x 16).png-932c31181e3394aa49d2581bf4bd8324.ctex::
 Snack_machine_Bench_Trash_bin (16 x 16).png::CompressedTexture2D::6021576901760096600::1771267298::1771267299::1::::<><><>0<>0<>089724e761754592b808d9799978b941<>res://.godot/imported/Snack_machine_Bench_Trash_bin (16 x 16).png-c8184c971a04b9743460f6da22dacb74.ctex::
 Water_frames (16 x 32).png::CompressedTexture2D::7570764564869787259::1771267298::1771267299::1::::<><><>0<>0<>47bdc4910f7e6f705b6affadd4df96d9<>res://.godot/imported/Water_frames (16 x 32).png-f51df8df4a5774c74b9548e2a9018f4a.ctex::
+::res://tiles/::1771287716
+decoration.tres::TileSet::5400797226919156513::1771287716::0::1::::<><><>0<>0<><>::uid://xtwfp06i8ri7::::res://sprites/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://bhkntqvoe4cij::::res://sprites/Seasonal Tilesets/5 - Misc. universal tiles/Flowers (16 x 16).png<>uid://g68l2lmwjqts::::res://sprites/Seasonal Tilesets/5 - Misc. universal tiles/House (112 x 96).png<>uid://drj44by6l12jd::::res://sprites/Seasonal Tilesets/3 - Tropics/Tropics_entities (16 x 16).png
+terrain.tres::TileSet::3647309702258837029::1771287716::0::1::::<><><>0<>0<><>::uid://cwo6drptg5igy::::res://sprites/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://cv3p0e2myoplq::::res://sprites/Seasonal Tilesets/2 - Autumn Forest/Terrain (16 x 16).png<>uid://bv2vgmas182tn::::res://sprites/Seasonal Tilesets/3 - Tropics/Terrain (16 x 16).png
